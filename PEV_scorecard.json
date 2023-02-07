@@ -1,22 +1,77 @@
 {
   "indicatorGroup": [
-    {
-      "code": "G1",
-      "name": "Prestation",
-      "titre": "Nombre de zéro dose et de sous vaccinés et stratégie avancé"
-    },
+      {
+        "code": "G1",
+        "name": "Prestation",
+        "titre": "Nombre de zéro dose et de sous vaccinés et stratégie avancé"
+      },
        {
       "code": "G2",
       "name": "Suivi",
       "titre": "Couverture vaccinale et abandon "
-    },
-       {
-      "code": "G3",
-      "name": "SMEV",
-      "titre": "Proportion de MAPI et MEV"
-    }
+      },
+        {
+        "code": "G3",
+        "name": "SMEV",
+        "titre": "Proportion de MAPI et MEV"
+      }
     ],
     "indicators": [
+    {
+            "achieved": "80",
+            "dhisID": "LxvnXK4qvZx",
+            "dhisName": "Stratégie avancée réalisée",
+            "formula": "",
+            "groupCode": "G1",
+            "name": "Taux de couverture contraceptive",
+            "notInTrack": "50",
+            "target": "100",
+            "type": "indicator"
+    },
+    {
+            "achieved": "20",
+            "dhisID": "rLbF7Hb3I2c",
+            "dhisName": "CSB PEV Nombre d'enfants sous vacciné <1 an",
+            "formula": "",
+            "groupCode": "G1",
+            "name": "CSB PEV Nombre d'enfants sous vacciné <1 an",
+            "notInTrack": "50",
+            "target": "0",
+            "type": "indicator"
+    },
+    {
+            "achieved": "20",
+            "dhisID": "t8nlJWqqeJQ",
+            "dhisName": "CSB PEV Nombre d'enfants zéro dose",
+            "formula": "",
+            "groupCode": "G1",
+            "name": "CSB PEV Nombre d'enfants zéro dose",
+            "notInTrack": "50",
+            "target": "0",
+            "type": "indicator"
+    },
+    {
+            "achieved": "80",
+            "dhisID": "HCGOKBkyLv4",
+            "dhisName": "CSB PEV Taux de couverture VAR 2",
+            "formula": "",
+            "groupCode": "G2",
+            "name": "Taux de couverture VAR 2",
+            "notInTrack": "50",
+            "target": "100",
+            "type": "indicator"
+    },
+    {
+            "achieved": "80",
+            "dhisID": "efPKzjWUz3V",
+            "dhisName": "CSB PEV Taux de couverture vaccinale en DTCHepBHib3 des enfants de <1 an",
+            "formula": "",
+            "groupCode": "G2",
+            "name": "CV n DTCHepBHib3 des enfants de <1 an",
+            "notInTrack": "50",
+            "target": "100",
+            "type": "indicator"
+    },
       {
         "achieved": "0",
         "dhisID": "vmoI1oNnImB",
