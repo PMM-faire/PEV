@@ -14,23 +14,62 @@
       "code": "G3",
       "name": "SMEV",
       "titre": "Proportion de MAPI et MEV"
-    },
-       {
-      "code": "G3",
-      "name": "Mobilisation sociale",
-      "titre": "Proportion de sensibilisation et dialogue communautaire"
     }
     ],
     "indicators": [
       {
-        "achieved": "19",
-        "dhisID": "LZOMImJNUHC",
-        "dhisName": "CSB PF Taux de couverture contraceptive 10-24 ans Toutes méthodes",
+        "achieved": "0",
+        "dhisID": "vmoI1oNnImB",
+        "dhisName": "CSB PEV Taux d’abandon entre: DTCHepHib1 et DTCHepHib3",
         "formula": "",
-        "groupCode": "G1",
-        "name": "Taux de couverture contraceptive",
-        "notInTrack": "12",
+        "groupCode": "G2",
+        "name": "TAB DTCHepHib1 et DTCHepHib3",
+        "notInTrack": "10",
         "target": "100",
+        "type": "indicator"
+      },
+	  {
+        "achieved": "0",
+        "dhisID": "h92R4nVDgfR",
+        "dhisName": "CSB PEV Taux d’abandon entre: DTCHepHib1 et VAR/RR1",
+        "formula": "",
+        "groupCode": "G2",
+        "name": "TAB DTCHepHib1 et VAR/RR1",
+        "notInTrack": "10",
+        "target": "100",
+        "type": "indicator"
+      },
+	  {
+        "achieved": "80",
+        "dhisID": "lKMV2o3IdvX",
+        "dhisName": "CSB PEV Proportion des enfants 0-11 mois protégés contre TNN à la naissance",
+        "formula": "",
+        "groupCode": "G3",
+        "name": "Proportion des enfants 0-11 mois protégés contre TNN à la naissance",
+        "notInTrack": "50",
+        "target": "100",
+        "type": "indicator"
+      },
+	  {
+        "achieved": "80",
+        "dhisID": "GRk2sPBIVtA",
+        "dhisName": "CSB PEV Proportion des enfants de 0 à 15 ans présentant des cas de PFA",
+        "formula": "",
+        "groupCode": "G3",
+        "name": "Proportion des enfants de 0 à 15 ans présentant des cas de PFA",
+        "notInTrack": "50",
+        "target": "0",
+        "type": "indicator"
+      },
+	  {
+        "achieved": "80",
+        "dhisID": "ti76fhWnU4x",
+        "dhisName": "CSB PEV proportion des cas suspect de rougeole dans la population",
+        "formula": "",
+        "groupCode": "G3",
+        "name": "Proportion des cas suspect de rougeole dans la population",
+        "notInTrack": "50",
+        "target": "0",
         "type": "indicator"
       }
     ],
