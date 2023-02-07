@@ -1,10 +1,25 @@
 {
-    "indicatorGroup": [
-      {
-        "code": "G1",
-        "name": "Couverture contraceptive",
-        "titre": "taux de couverture contraceptive"
-      }
+  "indicatorGroup": [
+    {
+      "code": "G1",
+      "name": "Prestation",
+      "titre": "Nombre de zéro dose et de sous vaccinés et stratégie avancé"
+    },
+       {
+      "code": "G2",
+      "name": "Suivi",
+      "titre": "Couverture vaccinale et abandon "
+    },
+       {
+      "code": "G3",
+      "name": "SMEV",
+      "titre": "Proportion de MAPI et MEV"
+    },
+       {
+      "code": "G3",
+      "name": "Mobilisation sociale",
+      "titre": "Proportion de sensibilisation et dialogue communautaire"
+    }
     ],
     "indicators": [
       {
